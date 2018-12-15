@@ -6,9 +6,12 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "async": "^2.6.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
+    "exif-reader": "^1.0.2",
     "express": "~4.16.0",
+    "find": "^0.2.9",
     "hbs": "~4.0.1",
     "http-errors": "~1.6.2",
     "md5-file": "^4.0.0",
